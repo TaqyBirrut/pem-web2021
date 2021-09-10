@@ -1,0 +1,16 @@
+Nama	: Muhammad Birruttaqy
+NIM	: A11.2020.12835
+Kelas	: A11.4314
+
+Progress Report Instalasi Web Server pada PC
+
+1.	Tahap pertama untuk menginstall web server pada PC disini saya menggunakan XAMPP.
+
+2.	Setelah XAMPP terinstall kita jalankan aplikasi nya
+
+3.	Akan muncul beberapa perintah yang dapat di aktifkan pada XAMPP, hal yang perlu kita aktifkan hanya Apache dan MySQL
+
+4.	Setelah Apache dan MySQL aktif kida buka folder C:\xampp\htdocs kemudian paste kan program kalian disana, setelah itu kita buka file yang sudah kita pastekan pada folder tadi
+
+5.	Berikut adalah contoh program yang sebelumnya sudah saya kerjakan
+ 
